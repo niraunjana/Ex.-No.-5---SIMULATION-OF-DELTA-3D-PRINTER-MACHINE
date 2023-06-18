@@ -31,8 +31,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/niraunjana/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119395610/45dda59d-8447-42b3-adec-77071036c359)
+
+
+### Name: NIRAUNJANA GAYATHRI G R
+### Register Number: 212222230096
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
